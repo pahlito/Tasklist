@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: a DateTimePeriod instance.
+- text: a kotlin.time Duration instance.
+- text: a String representing the time difference.
+- text: an Instant object.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19463#comment
+status: Solved
+record: -1

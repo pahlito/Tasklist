@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tasklist.Tasklist-task-build-classes-kotlin.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-reports-tests.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-test-results.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-tmp.main" target="11" />
+      <module name="Tasklist.Tasklist-task.main" target="11" />
+      <module name="Tasklist.Topics-Inheritance-Constructing_a_hierarchy.main" target="11" />
+      <module name="Tasklist.Topics-Inheritance-Theory.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Instant_class.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Leap_Year.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Next_Month.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Subtracting_Instant_Objects.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Theory.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Using_the_kotlinx-datetime_library.main" target="11" />
+      <module name="Tasklist.Topics-Secondary_constructor-Frozen_desserts.main" target="11" />
+      <module name="Tasklist.Topics-Secondary_constructor-Theory.main" target="11" />
+      <module name="Tasklist.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
